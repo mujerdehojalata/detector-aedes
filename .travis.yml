@@ -17,7 +17,7 @@ after_success:
 cache: apt
 deploy:
   true:
-    repo: datosgobar/detector-aedes
+    repo: EL-BID/detector-aedes
     tags: true
   distributions: sdist bdist_wheel
   password:
