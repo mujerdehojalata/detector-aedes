@@ -53,5 +53,5 @@ python:
 script:
 - source activate test
 - coverage run --source=detector_aedes setup.py test
-- travis-sphinx --source=docs -n build
+#- travis-sphinx --source=docs -n build
 sudo: false
