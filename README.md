@@ -16,7 +16,7 @@ Algoritmos de Visión Computacional para analizar imágenes de Ovisensores.
 
 ## Instalación
 
-El paquete se encuentra disponible en pip:
+El paquete se encuentra disponible en pip
 
 ```bash
 $ pip install detector_aedes
