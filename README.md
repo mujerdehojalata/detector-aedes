@@ -24,7 +24,7 @@ $ pip install detector_aedes
 
 Luego buscar la carpeta de instalación y renombrar el archivo config_sample.yml a config.yml
 
-### Instalacion de Desarrollo
+### Instalacion de Desarrollo>
 
 Para instalar en modo desarrollo ir a la carpeta en la que fue clonado el reporsitorio:
 
