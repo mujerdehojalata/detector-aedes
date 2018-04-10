@@ -18,7 +18,7 @@ after_success:
 cache: apt
 deploy:
   true:
-    repo: EL-BID/detector-aedes
+    repo: mujerdehojalata/detector-aedes
     tags: true
   distributions: sdist bdist_wheel
   password:
